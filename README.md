@@ -1,2 +1,3 @@
-# Criacao-de-uma-linguagem-imperativa-simples-e-um-compilador
-Criação de uma GIC, analisador léxico e compilador Yacc 
+# Development-of-a-Simple-Imperative-Language-and-Compiler
+
+Creation of a Context-Free Grammar (CFG), lexical analyzer, and Yacc-based compiler.
